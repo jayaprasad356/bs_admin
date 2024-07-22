@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\laravel-ecart\Main Code\resources\views/themes/eCart/error.blade.php ENDPATH**/ ?>

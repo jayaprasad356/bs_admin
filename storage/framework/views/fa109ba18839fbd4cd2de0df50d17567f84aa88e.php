@@ -1,0 +1,1 @@
+<?php /**PATH /home/shreesoftech/Desktop/eCart Web - Multi Vendor eCommerce Marketplace-v5.0.1/eCart Multivendor Website  v5.0.0/Main Code/resources/views/themes/eCart/error.blade.php ENDPATH**/ ?>
