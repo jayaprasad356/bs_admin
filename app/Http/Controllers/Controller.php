@@ -125,7 +125,7 @@ class Controller extends BaseController
     {
         $this->init($reload);
         $theme = get('theme');
-        if ($theme == 'bs') {
+        if ($theme == 'ecart') {
             if (Cache::get('under_maintenance_system') == 1) {
                 echo view("themes.$theme.underconstruction");
                 die();

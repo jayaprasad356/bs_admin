@@ -18,7 +18,7 @@ return [
 
     'name' => env('APP_NAME'),
 
-    'theme' => 'bs',
+    'theme' => 'ecart',
 
     'home_url' => env("APP_URL"),
 
