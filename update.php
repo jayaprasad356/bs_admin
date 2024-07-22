@@ -125,7 +125,7 @@ if (!isset($_SESSION["count"]) && $_SESSION["count"] != "applied") {
     copy('update-files/public/images/placeholder.png', '../public/images/placeholder.png');
     copy('update-files/public/images/sslecommerz.svg', '../public/images/sslecommerz.svg');
     copy('update-files/public/images/banktransfer.svg', '../public/images/banktransfer.svg');
-    copy('update-files/public/images/headerlogo.png', '../public/images/headerlogo.png');
+    copy('update-files/public/images/new_images.jpeg', '../public/images/new_images.jpeg');
 
 
     copy('update-files/public/js/accounts.js', '../public/js/accounts.js');
